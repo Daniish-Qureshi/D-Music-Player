@@ -22,5 +22,5 @@ Click the button below to see the project in action:
 
 If you have any questions, feedback, or suggestions, feel free to reach out to me:
 
-- **GitHub**: [Github](https://github.com/Daniish-Qureshi)
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/danishqureshi786)
+[Github](https://github.com/Daniish-Qureshi)
+[LinkedIn](https://www.linkedin.com/in/danishqureshi786)
