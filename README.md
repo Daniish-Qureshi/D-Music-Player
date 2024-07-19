@@ -12,15 +12,15 @@ Welcome to **D Music Player**, a sleek and user-friendly music player built with
 
 ![D Music Player Screenshot](https://github.com/Daniish-Qureshi/D-Music-Player/blob/main/Desktop.png)
 
-## Demo
+## LIVE Demo
 
 Click the button below to see the project in action:
 
-[![Demo](https://img.shields.io/badge/DEMO-LIVE-black)](https://daniish-qureshi.github.io/D-Music-Player/)
+[![Demo](https://img.shields.io/badge/LIVE_DEMO-black)](https://daniish-qureshi.github.io/D-Music-Player/)
 
 ## Contact
 
 If you have any questions, feedback, or suggestions, feel free to reach out to me:
 
-- **GitHub**: [https://github.com/yourusername](https://github.com/Daniish-Qureshi)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/danishqureshi786)
+- **GitHub**: [Github](https://github.com/Daniish-Qureshi)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/danishqureshi786)
