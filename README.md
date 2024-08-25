@@ -1,4 +1,5 @@
 # D Music Player
+Welcome to **D Music Player**, a sleek and user-friendly music player built with HTML, CSS, and JavaScript. This project provides a smooth and enjoyable experience for listening to your favorite music tracks.
 
 ## Screenshots
 
@@ -10,14 +11,17 @@ Click the button below to see the project in action:
 
 [![Demo](https://img.shields.io/badge/LIVE_DEMO-black)](https://daniish-qureshi.github.io/D-Music-Player/)
 
-Welcome to **D Music Player**, a sleek and user-friendly music player built with HTML, CSS, and JavaScript. This project provides a smooth and enjoyable experience for listening to your favorite music tracks.
-
 ## Features
 
 - **Play/Pause/Stop Functionality**: Easily control playback with intuitive buttons.
 - **Next/Previous Track Navigation**: Quickly switch between your music tracks.
 - **Volume Control**: Adjust the volume to your preferred level.
 
+## Technology Used
+
+- **HTML**
+- **CSS**
+- **JavaScript**
 
 ## Contact
 
